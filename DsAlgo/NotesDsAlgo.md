@@ -50,10 +50,10 @@ Space complexity S(P) of any algorithm P is S(P) = C + SP(I), where C is the fix
 
 Example:
 
-`Algorithm: SUM(A, B)
-Step 1 -  START
-Step 2 -  C ← A + B + 10
-Step 3 -  Stop`
+`Algorithm: SUM(A, B)` <br>
+`Step 1 -  START` <br>
+`Step 2 -  C ← A + B + 10` <br>
+`Step 3 -  Stop`
 
 Here we have three variables A, B, and C and one constant. Hence S(P) = 1 + 3. Now, space depends on data types of given variables and constant types and it will be multiplied accordingly.
 
@@ -62,13 +62,10 @@ Here we have three variables A, B, and C and one constant. Hence S(P) = 1 + 3. N
 For example, addition of two n-bit integers takes n steps. Consequently, the total computational time is T(n) = c ∗ n, where c is the time taken for the addition of two bits. Here, we observe that T(n) grows linearly as the input size increases.
 
 Example (may be wrong):
-26
-37
+26 + 37 = 63
 
-63
-
-Step1: adding 6+7 in ones place
-Step2: adding 2+3+1(step 1 carry) in tens place
+- Step1: adding 6+7 in ones place
+- Step2: adding 2+3+1(step 1 carry) in tens place
 
 **Asymptotic analysis** of an algorithm refers to defining the mathematical boundation/framing of its run-time performance. Using asymptotic analysis, we can very well conclude the best case, average case, and worst case scenario of an algorithm.
 
