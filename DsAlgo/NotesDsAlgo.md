@@ -28,28 +28,25 @@ An algorithm should have the following **characteristics** −
 
 There are no well-defined standards for writing algorithms. Rather, it is problem and resource dependent. Algorithms are never written to support a particular programming code.
 
-
 We write algorithms in a step-by-step manner, but it is not always the case. Algorithm writing is a process and is executed after the problem domain is well-defined. That is, we should know the problem domain, for which we are designing a solution.
-
 
 Efficiency of an algorithm can be analyzed at two different stages, before implementation and after implementation. 
 
-
-**Algorithm Complexity**
+#### Algorithm Complexity
 Suppose X is an algorithm and n is the size of input data, the time and space used by the algorithm X are the two main factors, which decide the efficiency of X.
 
 Time Factor − Time is measured by counting the number of key operations such as comparisons in the sorting algorithm.
 
 Space Factor − Space is measured by counting the maximum memory space required by the algorithm.
 
-**Space complexity** of an algorithm represents the amount of memory space required by the algorithm in its life cycle. The space required by an algorithm is equal to the sum of the following two components −
+#### Space complexity
+It represents the amount of memory space required by the algorithm in its life cycle. The space required by an algorithm is equal to the sum of the following two components
 
 - A fixed part that is a space required to store certain data and variables, that are independent of the size of the problem. For example, simple variables and constants used, program size, etc.
 
 - A variable part is a space required by variables, whose size depends on the size of the problem. For example, dynamic memory allocation, recursion stack space, etc.
 
 Space complexity S(P) of any algorithm P is S(P) = C + SP(I), where C is the fixed part and S(I) is the variable part of the algorithm, which depends on instance characteristic I.
-
 
 Example:
 
@@ -67,9 +64,9 @@ For example, addition of two n-bit integers takes n steps. Consequently, the tot
 Example (may be wrong):
 26
 37
-____
+
 63
-____
+
 Step1: adding 6+7 in ones place
 Step2: adding 2+3+1(step 1 carry) in tens place
 
