@@ -3,16 +3,16 @@
 
 ### Offensive security:
 
-largest area in cybersec
+Largest area in cybersec
 
-includes attackin applications, find vulns, etc
+Includes attackin applications, find vulns, etc
 
-this is for me if i:
+This is for me if i:
 - enjoy how things work
 - am analytical (likes collectin analyzin info , make decisions nd solves prob)
 - thinks out of the box
 
-most common job here is penetration tester (a person who legally employed by an organisation to find vulns in their products)
+Most common job here is penetration tester (a person who legally employed by an organisation to find vulns in their products)
 
 Penetration tester needs more knowledge including:
 - web app sec
@@ -23,6 +23,7 @@ Cloud sec is bein trend (coz organisations started shifting their infrastructure
 
 We can specilaze in one of the topics , but we need to have broad knowledge in this
 
+<br>
 
 ### Defensive Security:
 
