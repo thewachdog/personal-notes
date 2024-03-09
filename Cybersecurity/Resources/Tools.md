@@ -9,4 +9,5 @@ Cyberchef - https://gchq.github.io/CyberChef/
 - xor - https://xor.pw/
 - vigenere cipher - https://www.dcode.fr/vigenere-cipher
 - substitution cipher - https://www.dcode.fr/monoalphabetic-substitution
+- keyboard shift cipher / modern caesar cipher - https://www.dcode.fr/keyboard-shift-cipher
 - 
