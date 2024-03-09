@@ -8,4 +8,5 @@ Cyberchef - https://gchq.github.io/CyberChef/
 - binary to ascii - https://www.rapidtables.com/convert/number/binary-to-ascii.html
 - xor - https://xor.pw/
 - vigenere cipher - https://www.dcode.fr/vigenere-cipher
+- substitution cipher - https://www.dcode.fr/monoalphabetic-substitution
 - 
