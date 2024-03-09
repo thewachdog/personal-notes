@@ -10,4 +10,4 @@ Cyberchef - https://gchq.github.io/CyberChef/
 - vigenere cipher - https://www.dcode.fr/vigenere-cipher
 - substitution cipher - https://www.dcode.fr/monoalphabetic-substitution
 - keyboard shift cipher / modern caesar cipher - https://www.dcode.fr/keyboard-shift-cipher
-- 
+- playfair cipher - https://www.boxentriq.com/code-breaking/playfair-cipher, https://www.dcode.fr/playfair-cipher
